@@ -1,4 +1,4 @@
-### Hi there, I'm Jacob 👋
+### Hi, I'm Jacob 👋
 <img align="right" src="https://github.com/JacobWPeterson/JacobWPeterson/blob/main/globe.png" alt="Globe made of dots" width=350px height=350px/>
 I'm a full stack software engineer specializing in front-end development using Javascript-based technologies. I have experience developing apps with technologies such as React, Node, Express, Postgres, and more.
 
