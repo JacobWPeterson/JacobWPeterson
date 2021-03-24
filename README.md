@@ -1,4 +1,4 @@
-<img align="right" style="vertical-align:middle;" src="https://github.com/JacobWPeterson/JacobWPeterson/blob/main/globe.png" alt="Globe made of dots" width=350px height=350px/>
+<img align="right" style="top: 50vh;" src="https://github.com/JacobWPeterson/JacobWPeterson/blob/main/globe.png" alt="Globe made of dots" width=350px height=350px/>
 ### Hi there, I'm Jacob 👋
 
 I'm a full stack software engineer specializing in front-end development using Javascript-based technologies. I have experience developing apps with technologies such as React, Node, Express, Postgres, and more.
