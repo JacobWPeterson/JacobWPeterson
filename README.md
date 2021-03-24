@@ -1,4 +1,4 @@
-<img align="right" src="https://github.com/JacobWPeterson/JacobWPeterson/blob/main/globe.png" alt="Globe made of dots" width=350px height=465px/>
+<img align="right" src="https://github.com/JacobWPeterson/JacobWPeterson/blob/main/globe.png" alt="Globe made of dots" width=350px height=350px/>
 
 ### Hi there, I'm Jacob 👋
 
