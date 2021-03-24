@@ -1,10 +1,9 @@
+<img align="right"  src="https://github.com/JacobWPeterson/JacobWPeterson/blob/main/globe.png" alt="Globe made of dots" width=350px height=350px/>
 ### Hi there, I'm Jacob 👋
 
 I'm a full stack software engineer specializing in front-end development using Javascript-based technologies. I have experience developing apps with technologies such as React, Node, Express, Postgres, and more.
 
 Prior to software engineering, I earned a PhD in textual criticism and spent several years developing and overseeing projects to digitize ancient manuscripts in the US, Europe, and Asia.
-
-<img align="right" src="https://github.com/JacobWPeterson/JacobWPeterson/blob/main/globe.png" alt="Globe made of dots" width=350px height=350px/>
 
 - 🏁 I recently finished <a href="https://github.com/JacobWPeterson/FrontEndCapstone">Front End Capstone</a>
 - 🔭 I’m currently working on <a href="https://github.com/JacobWPeterson/Reviews">Systems Design Capstone</a>
