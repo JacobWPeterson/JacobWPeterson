@@ -6,7 +6,7 @@ I'm a full stack software engineer specializing in front-end development using J
 
 Prior to software engineering, I earned a PhD in textual criticism and spent several years developing and overseeing projects to digitize ancient manuscripts in the US, Europe, and Asia.
 
-- 🏁 I recently finished <a href="https://github.com/JacobWPeterson/Viewer">Viewere</a>
+- 🏁 I recently finished <a href="https://github.com/JacobWPeterson/Viewer">Viewer</a>
 - 🔭 I’m currently working on <a href="https://github.com/JacobWPeterson/abinth">abinth</a>
 - 💻 I’m currently learning system architecture and scaling
 - 💬 Ask me about Javascript, why coding bootcamps are great, and college football
