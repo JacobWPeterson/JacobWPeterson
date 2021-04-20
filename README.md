@@ -14,4 +14,4 @@ Prior to software engineering, I earned a PhD in textual criticism and spent sev
 - 📨 Reach me via <a href="mailto:petersonjacobw@gmail.com">Email</a>
 - 🖇️ Connect on <a href="https://www.linkedin.com/in/jacobwpeterson/">LinkedIn</a>
 - 🐦 Also follow me on Twitter <a href="https://twitter.com/jacobwpeterson">@jacobwpeterson</a>
-- ⚡ IRL: Golf——College Football——Travel (25 countries, worked in 6, lived in 3, and lectured on 3 continents) 🌎.
+- ⚡ Offline: Golf——College Football——Travel (25 countries, worked in 6, lived in 3, and lectured on 3 continents) 🌎.
