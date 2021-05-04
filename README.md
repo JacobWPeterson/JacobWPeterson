@@ -8,9 +8,7 @@ Prior to software engineering, I earned a PhD in textual criticism and spent sev
 
 - 🔭 I’m currently working on <a href="https://github.com/JacobWPeterson/abinth">abinth</a>, a twitter-based news app
 - 🏁 I recently finished <a href="https://github.com/JacobWPeterson/JobSite">JobSite</a>
-- 💻 I’m currently learning system architecture and scaling
 - 💬 Ask me about Javascript, why coding bootcamps are great, and college football
-- 📖 Pronouns: he/him
 - 📨 Reach me via <a href="mailto:petersonjacobw@gmail.com">Email</a>
 - 🖇️ Connect on <a href="https://www.linkedin.com/in/jacobwpeterson/">LinkedIn</a>
 - 🐦 Also follow me on Twitter <a href="https://twitter.com/jacobwpeterson">@jacobwpeterson</a>
