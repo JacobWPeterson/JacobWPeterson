@@ -6,8 +6,8 @@ I'm a full stack software engineer specializing in front-end development using J
 
 Prior to software engineering, I earned a PhD in textual criticism and spent several years developing and overseeing projects to digitize ancient manuscripts in the US, Europe, and Asia.
 
-- 🔭 I’m currently working on <a href="https://github.com/JacobWPeterson/abinth">abinth</a>, a twitter-based news app
-- 🏁 I recently finished <a href="https://github.com/JacobWPeterson/JobSite">JobSite</a>
+- 🔭 I’m an engineer at Splunk working on Cloud Experiences
+- 🏁 A fun personal project: <a href="https://github.com/JacobWPeterson/abinth">abinth</a>, a twitter-based news app
 - 💬 Ask me about Javascript, why coding bootcamps are great, and college football
 - 📨 Reach me via <a href="mailto:petersonjacobw@gmail.com">Email</a>
 - 🖇️ Connect on <a href="https://www.linkedin.com/in/jacobwpeterson/">LinkedIn</a>
