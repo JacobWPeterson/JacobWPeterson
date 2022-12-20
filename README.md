@@ -1,6 +1,6 @@
 ### Hi, I'm Jacob 👋
 <img align="right" src="https://github.com/JacobWPeterson/JacobWPeterson/blob/main/globe.png" alt="Globe made of dots" width=350px height=350px/>
-I'm a software engineer specializing in front end development. I have experience developing apps and cloud-based enterprise software in JavaScript/TypeScript with frameworks and libraries such as React, Recoil, RTL, Jest, Enzyme, Node, Express, Postgres, and more.
+I'm a software engineer specializing in front end development. I have experience developing cloud-based enterprise software in JavaScript/TypeScript with frameworks and libraries such as React, RTL, Jest, Node, Storybooks, Loki, Cypress, and more.
 
 &nbsp;
 
