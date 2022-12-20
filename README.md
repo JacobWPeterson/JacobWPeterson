@@ -6,7 +6,7 @@ I'm a software engineer specializing in front end development. I have experience
 
 Prior to software engineering, I earned a PhD in textual criticism and spent several years developing and overseeing projects to digitize ancient manuscripts in the US, Europe, and Asia.
 
-- 🔭 I’m an engineer at Splunk working on Cloud Experiences
+- 🔭 I’m an engineer at Splunk working on cloud-controlled edge processing
 - 🏁 A fun personal project: <a href="https://github.com/JacobWPeterson/abinth">abinth</a>, a twitter-based news app
 - 🖇️ Connect on <a href="https://www.linkedin.com/in/jacobwpeterson/">LinkedIn</a>
 - 🐦 Also follow me on Twitter <a href="https://twitter.com/jacobwpeterson">@jacobwpeterson</a>
