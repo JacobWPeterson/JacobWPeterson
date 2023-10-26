@@ -9,5 +9,5 @@ Prior to software engineering, I earned a PhD in textual criticism and spent sev
 - 🔭 I’m an engineer at Blis working on the UI for census-based data exploration and audience building
 - 🏁 A fun personal project: <a href="https://github.com/JacobWPeterson/abinth">abinth</a>, a twitter-based news app
 - 🖇️ Connect on <a href="https://www.linkedin.com/in/jacobwpeterson/">LinkedIn</a>
-- 🧵 Also follow me on Threads <a href="[https://twitter.com/jacobwpeterson](https://www.threads.net/@jacobwpeterson)">@jacobwpeterson</a>
+- 🧵 Also follow me on Threads <a href="https://twitter.com/jacobwpeterson](https://www.threads.net/@jacobwpeterson">@jacobwpeterson</a>
 - ⚡ Offline: Golf——College Football——Travel (25 countries, worked in 6, lived in 3, and lectured on 3 continents) 🌎.
