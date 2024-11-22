@@ -9,5 +9,5 @@ Prior to software engineering, I earned a PhD in textual criticism and spent sev
 - 🔭 I’m an engineer at Blis working on the UI for census-based data exploration and audience building
 - 🏁 A fun personal project: <a href="https://www.xeirographa.com">Xeirographa</a>, a site to teach you to read Greek manuscripts
 - 🖇️ Connect on <a href="https://www.linkedin.com/in/jacobwpeterson/">LinkedIn</a>
-- 🧵 Also follow me on Threads <a href="https://www.threads.net/@jacobwpeterson">@jacobwpeterson</a>
+- 🦋 Also follow me on BlueSky <a href="https://bsky.app/profile/jacobwpeterson.bsky.social">@jacobwpeterson.bsky.social</a>
 - ⚡ Offline: Trail Ultra-running —— College Football —— Travel (25 countries, worked in 6, lived in 3, and lectured on 3 continents) 🌎.
